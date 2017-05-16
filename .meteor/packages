@@ -1,0 +1,45 @@
+# Meteor packages used by this project, one per line.
+# Check this file (and the other files in this directory) into your repository.
+#
+# 'meteor add' and 'meteor remove' will edit this file for you,
+# but you can also edit it by hand.
+
+react
+kadira:react-layout
+twbs:bootstrap
+chuangbo:marked
+momentjs:moment
+meteorhacks:npm
+
+
+cosmos:browserify
+meteorhacks:subs-manager
+meteorhacks:fast-render
+meteorhacks:kadira
+meteorhacks:kadira-profiler
+kadira:debug
+kadira:login-state
+force-ssl
+meteorhacks:picker
+kadira:flow-router-ssr
+kadira:dochead
+percolatestudio:segment.io@=1.1.1_1
+accounts-meteor-developer
+velocityjs:velocityjs
+standard-minifiers
+meteor-base
+mobile-experience
+mongo
+blaze-html-templates
+session
+jquery
+tracker
+logging
+reload
+random
+ejson
+spacebars
+check
+
+
+npm-container

@@ -1,0 +1,128 @@
+.navbar {
+  padding: 30px 20px;
+  margin: 0px;
+  border-radius: 0;
+}
+
+.navbar-default .navbar-collapse {
+  border: 0;
+}
+
+.navbar.home {
+  background-color: rgba(22, 22, 22, 0.55);
+  border: 0;
+}
+
+.navbar.genie {
+  background-color: #FFF;
+  border: 0;
+  opacity: 0.1;
+}
+
+.navbar.genie:hover {
+  opacity: 1;
+}
+
+#navbar-brand {
+  cursor: pointer;
+}
+
+#navbar-brand img.brand-logo {
+  width: 125px;
+  margin-bottom: 8px;
+}
+
+#navbar-brand .brand-title {
+  margin: 0;
+  padding: 0;
+  font-weight: 400;
+  font-size: 27px;
+  line-height: 29px;
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  -o-font-smoothing: antialiased;
+}
+
+#navbar-brand .brand-title:hover {
+  text-decoration: none;
+}
+
+#navbar-brand:active {
+  text-decoration: none;
+}
+
+#navbar-brand .brand-desc {
+  margin: 0;
+  padding: 0;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  text-transform: uppercase;
+  font-weight: 800;
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  -o-font-smoothing: antialiased;
+}
+
+.home #navbar-brand .brand-desc {
+  color: #E2E2E2;
+}
+
+.graphql #navbar-brand .brand-desc {
+  color: #E2E2E2;
+}
+
+.navbar-default .navbar-nav>li>a {
+  margin-top: -7px;
+  text-transform: uppercase;
+}
+
+.home.navbar-default .navbar-nav>li>a {
+  color: #DCDCDC;
+}
+
+.home.navbar-default .navbar-nav>li>a:hover {
+  color: #FFF;
+}
+
+.genie.navbar-default .navbar-nav>li>a {
+  color: #444;
+}
+
+.genie.navbar-default .navbar-nav>li>a:hover {
+  color: #888;
+}
+
+.navbar-default .navbar-nav>li .selected-link {
+  font-weight: 700;
+}
+
+.home.navbar-default .navbar-nav>li .selected-link {
+  color: #FFF !important;
+}
+
+.genie.navbar-default .navbar-nav>li .selected-link {
+  color: #444 !important;
+}
+
+#toplink-login {
+  border-radius: 3px;
+  padding: 5px 15px;
+  margin-top: 3px;
+  color: #FFFFFF;
+  background-color: #CC3D3D;
+  border: 1px solid #fff;
+}
+
+#toplink-login:hover {
+  background-color: #E74F4F !important;
+  border: 1px solid #fff !important;
+}
+
+a#sign-in-tag {
+  text-align: center;
+  font-size: 11px;
+  font-weight: normal;
+  margin-left: 40px;
+  position: absolute;;
+}

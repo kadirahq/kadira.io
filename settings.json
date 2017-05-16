@@ -1,0 +1,8 @@
+{
+  "public": {
+    "loginState": {
+      "domain": ".somefake-domain",
+      "cookieName": "kadira-prod-login-state"
+    }
+  }
+}

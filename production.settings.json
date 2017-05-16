@@ -1,0 +1,23 @@
+{
+  "public": {
+    "ga": "UA-48364339-5",
+    "loginState": {
+      "domain": ".somefake-domain",
+      "cookieName": "kadira-prod-login-state"
+    },
+    "segmentio": {
+      "writeKey": "CkaQAstMwy5KlwFdrwICBc9adwe9pSyJ"
+    }
+  },
+  "kadira": {
+    "appId": "hyMkWdCMgBombQBXE",
+    "appSecret": "72b01159-2b79-45fc-a295-993f3399a214"
+  },
+  "galaxy.meteor.com": {
+    "env": {
+      "ROOT_URL": "https://kadira.io",
+      "MONGO_URL": "mongodb://app:213c40c4-0f06-444f-8be1-e03be584599c@candidate.15.mongolayer.com:10207,candidate.14.mongolayer.com:10207/kadira-home?replicaSet=set-5343bb40b07e69edfd00075f",
+      "MONGO_OPLOG_URL": "mongodb://oplog:45e63944-a71b-4889-800e-1b1e89011210@candidate.15.mongolayer.com:10207,candidate.14.mongolayer.com:10207/local?replicaSet=set-5343bb40b07e69edfd00075f&amp;authSource=kadira-home"
+    }
+  }
+}

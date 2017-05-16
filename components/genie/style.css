@@ -1,0 +1,83 @@
+.genie .logo {
+  margin: 75px 0 0 0;
+  text-align: center;
+}
+
+.genie .logo img {
+  width: 300px;
+  height: 230px;
+}
+
+.genie .logo h1 {
+  text-transform: uppercase;
+  font-weight: 800;
+  font-size: 40px;
+  margin: 10px;
+}
+
+.genie .logo h2 {
+  margin: 0 0 10px 0;
+}
+
+.genie .value-prop {
+  text-align: center;
+  margin: 35px 0 100px 0;
+  padding: 20px 0;
+  border: 1px solid #9FCD97;
+  border-radius: 3px;
+  color: #555;
+}
+
+.genie .value-prop h3 {
+  margin: 5px;
+  font-size: 20px;
+}
+
+.genie .main-feature {
+  margin: 50px 0;
+}
+
+.genie .main-feature h2 {
+  text-transform: uppercase;
+  font-size: 34px;
+  font-weight: 600;
+  margin: 10px 0 20px 0;
+}
+
+.genie .main-feature p,
+.genie .main-feature li {
+  font-family: 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif;
+  font-size: 16px;
+  max-width: 800px;
+}
+
+.genie .main-feature em {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.genie .main-feature li {
+  margin: 5px 0;
+}
+
+.genie .sub-feature {
+  margin: 25px 0 25px 0;
+  border: 1px solid #DCECDD;
+  padding: 10px 20px;
+  border-radius: 3px;
+  background-color: #FCFFFD;
+}
+
+.genie .sub-feature h3 {
+  text-transform: uppercase;
+  font-size: 26px;
+  margin: 10px 0 15px 0;
+}
+
+.genie .buy-link {
+  font-size: 25px;
+  font-weight: 800;
+  text-transform: uppercase;
+  color: #00C7E7;
+}

@@ -1,0 +1,29 @@
+.blog-categories {
+  margin: 0 0 20px 0;
+  padding: 0 0 10px 0;
+  font-size: 16px;
+  border-bottom: 1px solid #F6F6F6;
+}
+
+.blog-categories a,
+.blog-categories select {
+  text-transform: uppercase;
+}
+
+.blog-categories .blog-category {
+  margin-right: 25px;
+  text-decoration: none;
+}
+
+.blog-categories .selected {
+  color: #FFFFFF;
+  padding: 0px 6px;
+  border-radius: 2px;
+  background-color: #3EA6DA;
+  font-size: 15px; 
+}
+
+.blog-categories .blog-category-title {
+  font-weight: bold;
+  margin-right: 10px;
+}
